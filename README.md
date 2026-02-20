@@ -107,9 +107,16 @@ npm run dev
 
 
 
+
 ## 📌 Organização por Issues
 
 O projeto está sendo desenvolvido com base em issues numeradas e descritas no GitHub 
+
+
+### Fluxo de criação (v1)
+
+![Fluxo de criação de usuário](https://github.com/ray-barbosa/aqueapp_service/blob/main/aqueapp_usercreationflow.png)
+
 
 
 
